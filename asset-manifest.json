@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Songs-Finder/static/css/main.b100e6da.chunk.css",
-    "main.js": "/Songs-Finder/static/js/main.83db1f8e.chunk.js",
-    "main.js.map": "/Songs-Finder/static/js/main.83db1f8e.chunk.js.map",
+    "main.js": "/Songs-Finder/static/js/main.fa035749.chunk.js",
+    "main.js.map": "/Songs-Finder/static/js/main.fa035749.chunk.js.map",
     "runtime-main.js": "/Songs-Finder/static/js/runtime-main.e91f55f7.js",
     "runtime-main.js.map": "/Songs-Finder/static/js/runtime-main.e91f55f7.js.map",
-    "static/js/2.abf34b95.chunk.js": "/Songs-Finder/static/js/2.abf34b95.chunk.js",
-    "static/js/2.abf34b95.chunk.js.map": "/Songs-Finder/static/js/2.abf34b95.chunk.js.map",
+    "static/js/2.ed0d1226.chunk.js": "/Songs-Finder/static/js/2.ed0d1226.chunk.js",
+    "static/js/2.ed0d1226.chunk.js.map": "/Songs-Finder/static/js/2.ed0d1226.chunk.js.map",
     "index.html": "/Songs-Finder/index.html",
-    "precache-manifest.76013d27708a4fd7d31706406bfd4820.js": "/Songs-Finder/precache-manifest.76013d27708a4fd7d31706406bfd4820.js",
+    "precache-manifest.d6dd3ad315c1fcfbd1ea90959a0005ee.js": "/Songs-Finder/precache-manifest.d6dd3ad315c1fcfbd1ea90959a0005ee.js",
     "service-worker.js": "/Songs-Finder/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/Songs-Finder/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.e91f55f7.js",
-    "static/js/2.abf34b95.chunk.js",
+    "static/js/2.ed0d1226.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.83db1f8e.chunk.js"
+    "static/js/main.fa035749.chunk.js"
   ]
 }
