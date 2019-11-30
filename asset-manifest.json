@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Songs-Finder/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Songs-Finder/static/js/main.83db1f8e.chunk.js",
+    "main.js.map": "/Songs-Finder/static/js/main.83db1f8e.chunk.js.map",
+    "runtime-main.js": "/Songs-Finder/static/js/runtime-main.e91f55f7.js",
+    "runtime-main.js.map": "/Songs-Finder/static/js/runtime-main.e91f55f7.js.map",
+    "static/js/2.abf34b95.chunk.js": "/Songs-Finder/static/js/2.abf34b95.chunk.js",
+    "static/js/2.abf34b95.chunk.js.map": "/Songs-Finder/static/js/2.abf34b95.chunk.js.map",
+    "index.html": "/Songs-Finder/index.html",
+    "precache-manifest.76013d27708a4fd7d31706406bfd4820.js": "/Songs-Finder/precache-manifest.76013d27708a4fd7d31706406bfd4820.js",
+    "service-worker.js": "/Songs-Finder/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Songs-Finder/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e91f55f7.js",
+    "static/js/2.abf34b95.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.83db1f8e.chunk.js"
+  ]
+}
